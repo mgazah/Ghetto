@@ -1,6 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=FF0000&background=000000&center=true&vCenter=true&width=700&lines=🚀+Cyntron+X+;🔥+WhatsApp+Bot;💻+By+SPOILER+TECH" alt="Typing Animation">
-<!-- Glowing Header -->
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
@@ -67,7 +64,7 @@ Deploy the bot on your preferred platform.
 ### **Step 4: Start Using**
 Once configured, your bot will be ready to use!
 
----
+
 
 
 ---
@@ -87,6 +84,12 @@ Once configured, your bot will be ready to use!
 <p align="center">
   <a href="https://whatsapp.com/channel/0029Vb8HAPYFsn0WcPu9Dx2Y" target="_blank">
     <img src="https://img.shields.io/badge/📢_WHATSAPP_CHANNEL-25d366?style=for-the-badge&logo=whatsapp" width="300" height="50"/>
+  </a>
+  <br>
+
+<p align="center">
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/📢_WHATSAPP_GROUP-25d366?style=for-the-badge&logo=whatsapp" width="300" height="50"/>
   </a>
   <br>
 
