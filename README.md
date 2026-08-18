@@ -85,7 +85,7 @@ Once configured, your bot will be ready to use!
   <br>
 
 <p align="center">
-  <a href="" target="_blank">
+  <a href="https://chat.whatsapp.com/GEvHN4VDehiLLN0wdhiluc" target="_blank">
     <img src="https://img.shields.io/badge/📢_WHATSAPP_GROUP-25d366?style=for-the-badge&logo=whatsapp" width="300" height="50"/>
   </a>
   <br>
