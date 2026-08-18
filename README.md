@@ -58,9 +58,7 @@ Deploy the bot on your preferred platform.
   </a>
 </p>
 
-<p align="center">
-  <a href="" target="_blank">
-    <img src="https://img.youtube.com/vi/4r5OewBgLIs/0.jpg" width="400" height="225" alt="Cyntron-X Deployment Tutorial">
+<p 
   </a>
   <br>
   <sub>⚠️ <strong>Click the image or button above to watch on YouTube</strong> (GitHub does not support embedded video players)</sub>
