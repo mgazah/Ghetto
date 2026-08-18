@@ -85,16 +85,10 @@ Once configured, your bot will be ready to use!
 ## 📢 **Stay Updated**
 
 <p align="center">
-  <a href="" target="_blank">
+  <a href="https://whatsapp.com/channel/0029Vb8HAPYFsn0WcPu9Dx2Y" target="_blank">
     <img src="https://img.shields.io/badge/📢_WHATSAPP_CHANNEL-25d366?style=for-the-badge&logo=whatsapp" width="300" height="50"/>
   </a>
   <br>
-
-  
-  <a href="https://Cyntron-X.co.ke" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_WEBSITE-Cyntron-X.co.ke-000000?style=for-the-badge" width="300" height="50"/>
-  </a>
-</p>
 
 ---
 
