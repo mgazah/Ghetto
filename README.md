@@ -54,9 +54,7 @@ Deploy the bot on your preferred platform.
   <em>How to deploy  on its own hosting - No Deployer Needed!</em>
 </p>
 
-<p align="center">
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/📺_WATCH_VIDEO-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="300" height="50"/>
+<
   </a>
 </p>
 
